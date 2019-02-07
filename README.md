@@ -1,2 +1,2 @@
 # ColorGame
-Coloring Game
+Coloring Game in Javascript.
